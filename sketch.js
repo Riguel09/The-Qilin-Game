@@ -3,7 +3,7 @@ let qilin;
 let gravity = 2;
 let floorHeight = 100;
 let covid;
-let enemies = []
+let enemies = [];
 
 function setup() {
   createCanvas(windowWidth, windowHeight);
